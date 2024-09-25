@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./[github-header-image.png](https://postimg.cc/688r5jrt))
 <h1 align="center">Hi 👋, I'm Blessing Leso</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
 <a href="https://icons8.com/illustrations/author/JTmm71Rqvb2T">Dani Grapevine</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
