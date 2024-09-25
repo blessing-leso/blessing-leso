@@ -1,5 +1,4 @@
 ![Header](https://i.postimg.cc/wjV02n3y/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Blessing Leso</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
