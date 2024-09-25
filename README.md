@@ -1,7 +1,7 @@
-![Header](./[github-header-image.png](https://postimg.cc/688r5jrt))
+![Header](https://postimg.cc/688r5jrt)
 <h1 align="center">Hi 👋, I'm Blessing Leso</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
-<a href="https://icons8.com/illustrations/author/JTmm71Rqvb2T">Dani Grapevine</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 
 - 🔭 I’m currently working on [Web App development](https://github.com/blessing-leso/StudentApp)
