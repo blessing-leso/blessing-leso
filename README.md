@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 🤝 I’m looking for help with **Software Development career**
+- 🤝 I’m looking for help with **Software Development Career Recruitment**
 
 - 👨‍💻 All of my projects are available at [https://blessing-leso.github.io/bi-leso-portfolio/myportfolio](https://blessing-leso.github.io/bi-leso-portfolio/myportfolio)
 
