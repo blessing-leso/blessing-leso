@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Web App development](https://github.com/blessing-leso/StudentApp)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with **Software Development Career Recruitment**
 
